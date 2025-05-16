@@ -1,0 +1,6 @@
+* 5ee14c3 (HEAD -> web_squash, origin/web_squash) add mk_git_aliases
+* 564230f add jiracmdline ini
+| * a2bcc5f (origin/branch1, branch1) add license
+| * ea0773d add gitignore
+|/  
+* 7d87d7f (origin/main, origin/HEAD, main) Initial commit
